@@ -1,4 +1,4 @@
 # Projects-Hws
 
-A repository of some interesting projects I worked on. 
+A repository for some interesting projects I worked on. 
 
